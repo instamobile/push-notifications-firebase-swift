@@ -6,6 +6,7 @@
 //  Copyright © 2019 Instamobile. All rights reserved.
 //
 
+import Firebase
 import UIKit
 
 @UIApplicationMain
@@ -15,7 +16,14 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
+        let pushManager = PushNotificationManager(userID: "currently_logged_in_user_id")
+        pushManager.registerForPushNotifications()
+
+        FirebaseApp.configure()
+
+        let sender = PushNotificationSender()
+        sender.sendPushNotification(to: "token", title: "Notification title", body: "Notification body")
+    
         return true
     }
 
