@@ -1,4 +1,4 @@
-# Push Notifications with Firebase in Swift 5 - Starter Kit 🔥💖💥💥
+# Push Notifications with Firebase in Swift 5 - Starter Kit 💥🔥
 
 Lightweight Swift 5 implementation of Push Notifications with Firebase (Google Cloud Messaging). Download this project and run it in Xcode. Contributions are welcome.
 
