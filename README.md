@@ -15,6 +15,7 @@ This Xcode template contains the boilerplate code needed for sending push notifi
 * Registering for Notifications (Popping the push notification permissions system dialog)
 * Sending push notifications from Firebase UI Dashboard
 * Device-to-device push notifications
+* Sending push notifications programmatically in Swift
 
 ## How to run the Xcode project
 
