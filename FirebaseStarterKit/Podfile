@@ -5,7 +5,6 @@ target 'FirebaseStarterKit' do
   use_frameworks!
 
   # Pods for FirebaseStarterKit
-
   pod 'Firebase/Core'
   pod 'Firebase/Auth'
   pod 'Firebase/AdMob'
