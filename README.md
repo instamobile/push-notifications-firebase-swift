@@ -1,8 +1,8 @@
-# Push Notifications with Firebase in Swift 5 - Starter Kit 💥🔥
+# Push Notifications with Firebase in Swift 5 - iOS Starter Kit 💥🔥
 
-Lightweight Swift 5 implementation of Push Notifications with Firebase (Google Cloud Messaging). Download this project and run it in Xcode. Contributions are welcome.
+Lightweight Swift 5 implementation of Push Notifications with Firebase (Google Cloud Messaging). Download this Swift project and run it in Xcode. Contributions are welcome.
 
-This Xcode template contains the boilerplate code needed for sending push notifications in iOS apps. If you're starting from scratch, you need to configure your Firebase & Apple Certificates. To do that, check out this detailed tutorial on <a href="https://www.iosapptemplates.com/blog/ios-development/push-notifications-firebase-swift-5">how to set up Apple Push Notifications with Firebase</a>.
+This Xcode template contains the boilerplate code needed for sending push notifications in iOS apps, via Firebase GCM. If you're starting from scratch, you need to configure your Firebase & Apple Certificates. To do that, check out this detailed tutorial on <a href="https://www.iosapptemplates.com/blog/ios-development/push-notifications-firebase-swift-5">how to set up Apple Push Notifications with Firebase</a>.
 
 
 <a href="https://www.iosapptemplates.com/templates/firebase-push-notifications-swift-starter-kit"><img width="270px" src="https://www.iosapptemplates.com/wp-content/uploads/2019/01/Simulator-Screen-Shot-iPhone-XS-2019-01-28-at-21.58.11-473x1024.png" /></a>
@@ -30,4 +30,4 @@ pod install
 5. Run (Cmd + R) the code
 
 
-Coded with love and supported by <a href="https://www.iosapptemplates.com">iOS App Templates</a>.
+Coded with love and supported by <a href="https://www.iosapptemplates.com">iOS App Templates</a>. This app has been created with UI components provided by <a href="https://www.cupertinokit.com">Cupertino Kit</a>.
