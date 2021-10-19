@@ -1,4 +1,3 @@
-FirebaseStarterKit/FirebaseStarterKit.xcodeproj/
-FirebaseStarterKit/Pods/
-FirebaseStarterKit/FirebaseStarterKit.xcworkspace/
-Podfile.lock
+FirebaseStarterKit/Pods/ 
+FirebaseStarterKit/FirebaseStarterKit.xcworkspace/ 
+Podfile.lock 

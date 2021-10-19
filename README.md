@@ -31,3 +31,4 @@ pod install
 
 
 Coded with love and supported by <a href="https://www.iosapptemplates.com">iOS App Templates</a>. This app has been created with UI components provided by <a href="https://www.cupertinokit.com">Cupertino Kit</a>.
+ 
