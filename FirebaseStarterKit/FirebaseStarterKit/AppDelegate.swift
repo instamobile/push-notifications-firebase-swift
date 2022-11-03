@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  FirebaseStarterKit
 //
-//  Created by Florian Marcu on 1/28/19.
-//  Copyright © 2019 Instamobile. All rights reserved.
+//  Created by Florian Marcu on 1/28/23.
+//  Copyright © 2023 Instamobile. All rights reserved.
 //
 
 import Firebase
